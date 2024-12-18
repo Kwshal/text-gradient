@@ -1,0 +1,33 @@
+p {
+     font-family: open sans;
+     color: transparent;
+     font-size: 4em;
+     font-weight: 900;
+}
+
+#p1 {
+     background: linear-gradient(90deg, rgb(81, 0, 128), rgb(255, 125, 179));
+     background-clip: text;
+}
+
+#p2 {
+     background-image: url('/cute-yet-bored-funny-cat-e2ftbgrfxrbazqsb.jpg');
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-clip: text;
+}
+#p3 {
+     background-image: url('/images.jpeg');
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-clip: text;
+}
+#p4 {
+     background-image: url('/Golden background.jpeg');
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-clip: text;
+}
