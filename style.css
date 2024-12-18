@@ -11,21 +11,14 @@ p {
 }
 
 #p2 {
-     background-image: url('/cute-yet-bored-funny-cat-e2ftbgrfxrbazqsb.jpg');
+     background-image: url('/images/cute-yet-bored-funny-cat-e2ftbgrfxrbazqsb.jpg');
      background-size: cover;
      background-repeat: no-repeat;
      background-position: center;
      background-clip: text;
 }
 #p3 {
-     background-image: url('/images.jpeg');
-     background-size: cover;
-     background-repeat: no-repeat;
-     background-position: center;
-     background-clip: text;
-}
-#p4 {
-     background-image: url('/Golden background.jpeg');
+     background-image: url('/images/images.jpeg');
      background-size: cover;
      background-repeat: no-repeat;
      background-position: center;
