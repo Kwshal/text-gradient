@@ -1,26 +1,29 @@
 p {
-     font-family: open sans;
+     font-family: poppins;
      color: transparent;
      font-size: 4em;
-     font-weight: 900;
+     font-weight: 700;
 }
 
 #p1 {
-     background: linear-gradient(90deg, rgb(81, 0, 128), rgb(255, 125, 179));
+     background: linear-gradient(90deg, rgb(44, 0, 70), rgb(255, 98, 163));
      background-clip: text;
 }
 
 #p2 {
-     background-image: url('/images/cat.jpg');
+     background-image: url('https://kwshal.github.io/text-gradient/images/cat.jpg');
      background-size: cover;
      background-repeat: no-repeat;
      background-position: center;
      background-clip: text;
 }
 #p3 {
-     background-image: url('/images/images.jpeg');
+     background-image: url('https://kwshal.github.io/text-gradient/images/images.jpeg');
      background-size: cover;
      background-repeat: no-repeat;
      background-position: center;
      background-clip: text;
+}
+body {
+     background-color: #faf5ff;
 }
